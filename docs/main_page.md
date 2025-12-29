@@ -1,36 +1,28 @@
 # The Sims 4 Creator Tools Wiki
 
 Welcome to the documentation page for TS4CT blender addon! These are a work in progress, please don't mind the construction!
-# Project Architecture
 
-[<img src="cbsb.png">]()
+## How To Install
+- [[Installation]]
 
-read more about the project architecture [here](projectarc.md)
+## TS4 Creator Tools
+- [[TS4CT ‐ Asset Importer]]
+- [[TS4CT ‐ Anim Importer]]
+- [[TS4CT ‐ REF]]
+- [[TS4CT ‐ Mesh]]
+- [[TS4CT ‐ UVs]]
+- [[TS4CT ‐ Weights]]
+- [[TS4CT ‐ Transparency]]
+- [[TS4CT ‐ LOD Creation]]
+- [[TS4CT ‐ Vertex Paints]]
+- [[TS4CT ‐ Bake]]
 
-# More Explanations
+## TS4CT: Custom Importer
+- [[TS4CT:CI ‐ Asset Folder]]
+- [[TS4CT:CI ‐ CAS]]
+- [[TS4CT:CI ‐ Body]]
+- [[TS4CT:CI ‐ Rig]]
+- [[TS4CT:CI ‐ Animations]]
 
-1. [how to run](howtorun.md)
-   1. [notes about sql server](sqllocal.md)
-   1. [notes about azure service bus](azureservicebus.md)
-   1. [notes about auth](auth.md)
-   1. [notes about stripe](stripe.md)
-   1. [notes about dummy data](dummydata.md)
-1. [issues and known problems](issues.md)
-1. [video tutorials](video.md)
-
-# book a session with me
-
-1. [calendly](https://calendly.com/jaycodingtutor/30min)
-
-# hire and get to know me
-
-find ways to hire me, follow me and stay in touch with me.
-
-1. [github](https://github.com/Jay-study-nildana)
-1. [personal site](https://thechalakas.com)
-1. [upwork](https://www.upwork.com/fl/vijayasimhabr)
-1. [fiverr](https://www.fiverr.com/jay_codeguy)
-1. [codementor](https://www.codementor.io/@vijayasimhabr)
-1. [stackoverflow](https://stackoverflow.com/users/5338888/jay)
-1. [Jay's Coding Channel](https://www.youtube.com/channel/UCJJVulg4J7POMdX0veuacXw/)
-1. [medium blog](https://medium.com/@vijayasimhabr)
+## TS4CT: Doll Maker
+- [[TS4CT:DM]]
