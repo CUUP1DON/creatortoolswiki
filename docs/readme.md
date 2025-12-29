@@ -6,7 +6,7 @@ Welcome to the documentation page for TS4CT blender addon! These are a work in p
 - [[Installation]]
 
 ## TS4 Creator Tools
-- [TS4CT ‐ Asset Importer](creatortoolswiki/docs/TS4CT ‐ Asset Importer.md)
+- [TS4CT ‐ Asset Importer](creatortoolswiki/docs/ct_assetimporter.md)
 - [[TS4CT ‐ Anim Importer]]
 - [[TS4CT ‐ REF]]
 - [[TS4CT ‐ Mesh]]
