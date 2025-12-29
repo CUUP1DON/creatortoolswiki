@@ -1,13 +1,6 @@
-# Comic Book Shop - Documentation - Version 1.0.3
+# The Sims 4 Creator Tools Wiki
 
-[<img src="cbsa.png">]()
-
-welcome to the comic book shop. A full stack .net project.
-
-want to contribute or report issues, repo is [available here](https://github.com/Jay-study-nildana/comicbookshop).
-
-GitHub Project Board is [available here](https://github.com/users/Jay-study-nildana/projects/8)
-
+Welcome to the documentation page for TS4CT blender addon! These are a work in progress, please don't mind the construction!
 # Project Architecture
 
 [<img src="cbsb.png">]()
